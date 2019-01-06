@@ -23,7 +23,7 @@ Manual.
 - 3.Start 'Main.py' from your shell.                                                                         -
 - 4.Follow the instructions                                                                                  -
 - 5.After everything was configured correctly start 'Main.py' again from your shell.                         -
--   (only after installation or when you want to renew your credentials)			                    	       -
+-   (only after installation or when you want to renew your credentials)			                    	   -
 -                                                                                                            -
 --------------------------------------------------------------------------------------------------------------
 
