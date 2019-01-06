@@ -34,6 +34,6 @@ Manual.
 - 2.Navigate to the 'Dateien+'-folder                                                                        -
 -   or create your own folder, but be sure that it has '+' at the end of its name                            -
 - 3.Add your script to that folder, making sure all the preset have been met                                 -
--  ->(see 'Template.txt', in the Dateien+-Ordner)                                                               -
+-  ->(see 'Template.txt', in the Dateien+-Ordner)                                                            -
 -                                                                                                            -
 --------------------------------------------------------------------------------------------------------------
