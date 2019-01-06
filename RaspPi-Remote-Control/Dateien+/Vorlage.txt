@@ -1,0 +1,39 @@
+﻿
+
+>To succesfully load your own written script, you must pay attention to the following points.
+-------------------------------------------------------------------------------------------------------------
+-                                                                                                           -
+- 1.Set the Python source code encoding to 'utf-8'                                                          -
+- 2.Create a list ('commands') which contains the words necessary to execute your script                    -
+- 3.Define a function 'exc(cmd)' which will be executed by a thread                                         -
+-                                                                                                           -
+-------------------------------------------------------------------------------------------------------------
+
+
+>Template:
+
+    ************************************************
+    *                                              *
+    *  #! /usr/bin/env python                      *
+    *  # -*- coding: utf-8 -*-                     *
+    *                                              *
+    *  import {your imports}                       *
+    *                                              *
+    *                                              *
+    *  commands = ["wie", "gehts"]                 *
+    *                                              *
+    *  def exc(command):                           *
+    *      print("Mir geht es gut und dir?")       *
+    *      function1()                             *
+    *                                              *   
+    *                                              *
+    *  def function1():                            *
+    *      value = 42                              *
+    *                                              *
+    *  class class1():                             *
+    *      {...}                                   *
+    *                                              *
+    *  {code...}                                   *
+    *                                              *
+    ************************************************
+
