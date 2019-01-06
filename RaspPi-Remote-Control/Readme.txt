@@ -21,6 +21,7 @@ Manual.
 - 1.Open a shell                                                                                             -
 - 2.Navigate to your Siri-Folder.                                                                            -
 - 3.Start 'Main.py' from your shell.                                                                         -
+-   (when you have python2.x and python 3.x make sure to call python3 Main.py)                               -     
 - 4.Follow the instructions                                                                                  -
 - 5.After everything was configured correctly start 'Main.py' again from your shell.                         -
 -   (only after installation or when you want to renew your credentials)			                    	       -
