@@ -10,5 +10,6 @@ When these keywords can be found the script will be executed by a thread which a
 
 !Everything gets explained in more detail in the Raspi-Remote-Control folder!
 
+-> https://github.com/Flerov/RaspPi-Siri-Remote-Control/
 
 #raspberrypi #python #iPhone #siri #ubuntu #remotecontrol 
