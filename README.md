@@ -1,8 +1,10 @@
 # RaspPi-Siri-Remote-Control
 
+-Control your Raspberry Pi over voice commands from your iPhone.-
+
 This Script is designed to be as user friendly and easy to understand as possible
 -----------------------------------------------------------------------------------------------------------------------------
-Control your Raspberry Pi over voice commands from your iPhone.                                                            
+                                                            
 
 You can start your own written python scripts over voice commands from you iPhone.                                         
 For that you have to create a note with Siri on your iPhone, the note will be scanned for specific keywords in your script.
