@@ -3,7 +3,7 @@
 
 import os
 import pkgutil
-#import platform
+import platform
 
 
 commands = ["start", "python"]
