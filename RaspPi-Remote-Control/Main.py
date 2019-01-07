@@ -29,7 +29,7 @@ class ControlThread(threading.Thread):
     def run(self):
         try:
             self.module.exc(self.command)
-            #print("\n-X Exit '{module_name}'\n".format(module_name=self.module))
+            print("\n-X Exit '{module_name}'\n".format(module_name=self.module))
         except Exception as exc:
             print("[ERROR] An error occurred while executing "
                   "{module_Name}: {error_Message}"
